@@ -6,5 +6,6 @@ int main(int argc, char **argv)
  askname(first, last);
  printf("Hello, %s %s!\n", first, last);
  printf("updated another rep");
+ printf(1);
  return 0;
 }
