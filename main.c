@@ -4,7 +4,7 @@ int main(int argc, char **argv)
 {
  char first[255], last[255];
  askname(first, last);
- printf("Hello, %s %s!\n", first, last);
+ printf("Hello 123, %s %s!\n", first, last);
  printf("updated another rep");
  printf(1);
  printf(2);
